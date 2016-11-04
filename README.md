@@ -21,15 +21,14 @@
   Read pro git 2, first 2 chapters
 
 ## <a name="automation" /> Automation
-  [*]
-  Ansible
-  Chef
-  Puppet https://puppet.com/solutions/security-compliance
+  * Ansible
+  * Chef
+  * Puppet https://puppet.com/solutions/security-compliance
 
 ## <a name="scripting" /> Scripting
-  - Python to start
-  - GO once you're proficient
-  - Don't forget PS for Windows
+  * Python to start
+  * GO once you're proficient
+  * Don't forget PS for Windows
 
 ## <a name="rest" /> REST
   - Postman

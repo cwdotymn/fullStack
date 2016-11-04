@@ -4,25 +4,32 @@
 - I Need to get cloud native
 - Automation is about stamps, not snowflakes
 
-* [Quick Start](#quick-start)
-* [Git / Github](#git)
-* Automation
-## <a name="quick-start"></a>Quick Start
+* [Git and Github](#git)
+* [Automation](#automation)
+* [Scripting](#scripting)
+* [REST](#rest)
+* [Serverless](#serverless)
+* [VM's](#vm)
+* [SDN](#sdn)
+* [Windows Development](#windows)
+* [Container Orchestration](#orchestration)
+* [Testing](#testing)
+
 
 ## <a name="git" /> Git / Github 
   -Read pro git 2, first 2 chapters
 
-#### Automation
+## <a name="automation" /> Automation
   - Ansible
   - Chef
   - Puppet https://puppet.com/solutions/security-compliance
 
-#### Scripting
+## <a name="scripting" /> Scripting
   - Python to start
   - GO once you're proficient
   - Don't forget PS for Windows
 
-#### REST
+## <a name="rest" /> REST
   - Postman
     - Postman Interceptor to capture requests and save them to Postman's history
   - GraphQL (http://graphql.org/)
@@ -30,26 +37,26 @@
     - https://github.com/serverless/serverless-graphql
     - Can wrap REST api's
 
-#### Serverless
+## <a name="serverless" /> Serverless
   - https://serverless.com/
   - AWS Lambda
     - https://github.com/dwyl/learn-aws-lambda
   - Azure Functions
 
-#### VM's
+## <a name="vm" /> VM's
   - Docker Images
   - Vagrant
     - Vagrant with Docker (https://www.vagrantup.com/docs/provisioning/docker.html)
 
-#### SDN
+## <a name="sdn" /> SDN
   - vmWare NSX
   - Cisco ACI (Application Centric Infrastructure)
   - Juniper Contrail
 
-#### Windows Development
+## <a name="windows" />Windows Development
   - penguiNet for SSH and Telnet
 
-#### Container Orchestration
+## <a name="orchestration" /> Container Orchestration
   - Kubernetes
     - Run on a laptop: https://github.com/kubernetes/minikube
     - Online Free Course: https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
@@ -57,6 +64,6 @@
   - Docker Swarm
   - Mesosphere
 
-#### Testing
+## <a name="testing" />Testing
   - Selenium
   - Headless Chrome (PhantomJS until then)

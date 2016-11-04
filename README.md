@@ -1,9 +1,9 @@
 # fullStack
 
-**My Notes around getting started as a full stack engineer**
+#**My Notes around getting started as a full stack engineer**
 - I Need to get cloud native
 - > Automation is about stamps, not snowflakes
-**- Git / Github**
+#**Git / Github**
   -Read pro git 2, first 2 chapters
 **- Automation**
   - Ansible

@@ -2,13 +2,13 @@
 
 **My Notes around getting started as a full stack engineer**
 - I Need to get cloud native
-- 	• "Automation is about stamps, not snowflakes"
-- 	• Git / Github
---		○ Read pro git 2, first 2 chapters
--	• Automation
-		○ Ansible
-		○ Chef
-		○ Puppet
+- "Automation is about stamps, not snowflakes"
+-  Git / Github
+-- Read pro git 2, first 2 chapters
+-Automation
+-- Ansible
+--		○ Chef
+--		○ Puppet
 			§ https://puppet.com/solutions/security-compliance
 	• Python for scripting
 		○ GO once you're proficient

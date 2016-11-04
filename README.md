@@ -13,14 +13,14 @@
   - Python to start
   - GO once you're proficient
   - Don't forget PS for Windows
-	• REST
-		○ Postman
-			§ Postman Interceptor to capture requests and save them to Postman's history
-		○ GraphQL (http://graphql.org/)
-			§ Acts as an endpoint
-			§ https://github.com/serverless/serverless-graphql
-			§ Can wrap REST api's
-	• Serverless
+- REST
+  - Postman
+    - Postman Interceptor to capture requests and save them to Postman's history
+  - GraphQL (http://graphql.org/)
+    - Acts as an endpoint
+    - https://github.com/serverless/serverless-graphql
+    - Can wrap REST api's
+- Serverless
 		○ https://serverless.com/
 		○ AWS Lambda
 			§ https://github.com/dwyl/learn-aws-lambda

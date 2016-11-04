@@ -6,7 +6,7 @@
 -  Git / Github
 -- Read pro git 2, first 2 chapters
 -Automation
--- Ansible
+--Ansible
 --		○ Chef
 --		○ Puppet
 			§ https://puppet.com/solutions/security-compliance

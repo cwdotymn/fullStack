@@ -26,8 +26,10 @@
 
 ## <a name="automation" /> Automation
   * Ansible
+    * Ansible: Up and Running
   * Chef
-  * Puppet https://puppet.com/solutions/security-compliance
+  * Puppet
+    * https://puppet.com/solutions/security-compliance
 
 ## <a name="scripting" /> Scripting
   * Python to start

@@ -9,7 +9,7 @@
 * Automation
 ## <a name="quick-start"></a>Quick Start
 
-<a name="git" />#### Git / Github 
+## <a name="git" /> Git / Github 
   -Read pro git 2, first 2 chapters
 
 #### Automation

@@ -21,6 +21,7 @@
   Read pro git 2, first 2 chapters
 
 ## <a name="automation" /> Automation
+  [*]
   Ansible
   Chef
   Puppet https://puppet.com/solutions/security-compliance

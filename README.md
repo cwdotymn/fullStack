@@ -18,7 +18,7 @@
 
 
 ## <a name="git" /> Git / Github 
-  Read pro git 2, first 2 chapters
+  #### Read pro git 2, first 2 chapters
   * git clone https://github.com/cwdotymn/fullStack
   * git add README.md
   * git commit -m

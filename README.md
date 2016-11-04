@@ -1,7 +1,7 @@
 # fullStack
 
 My Notes around getting started as a full stack engineer
-	• I Need to get cloud native
+	- I Need to get cloud native
 	• "Automation is about stamps, not snowflakes"
 	• Git / Github
 		○ Read pro git 2, first 2 chapters
@@ -33,7 +33,7 @@ My Notes around getting started as a full stack engineer
 		○ vmWare NSX
 		○ Cisco ACI (Application Centric Infrastructure)
 		○ Juniper Contrail
-	• Windows Development 
+	• Windows Development
 		○ penguiNet for SSH and Telnet
 	• Container Orchestration
 		○ Kubernetes

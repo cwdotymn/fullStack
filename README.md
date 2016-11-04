@@ -4,17 +4,19 @@
 - I Need to get cloud native
 - Automation is about stamps, not snowflakes
 
-# Git / Github
+### Git / Github
   -Read pro git 2, first 2 chapters
 
-# Automation
+### Automation
   - Ansible
   - Chef
   - Puppet https://puppet.com/solutions/security-compliance
+
 **- Scripting**
   - Python to start
   - GO once you're proficient
   - Don't forget PS for Windows
+
 **- REST**
   - Postman
     - Postman Interceptor to capture requests and save them to Postman's history

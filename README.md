@@ -21,27 +21,27 @@
     - https://github.com/serverless/serverless-graphql
     - Can wrap REST api's
 - Serverless
-		○ https://serverless.com/
-		○ AWS Lambda
-			§ https://github.com/dwyl/learn-aws-lambda
-		○ Azure Functions
-	• VM's
-		○ Docker Images
-		○ Vagrant
-			§ Vagrant with Docker (https://www.vagrantup.com/docs/provisioning/docker.html)
-	• SDN
-		○ vmWare NSX
-		○ Cisco ACI (Application Centric Infrastructure)
-		○ Juniper Contrail
-	• Windows Development
-		○ penguiNet for SSH and Telnet
-	• Container Orchestration
-		○ Kubernetes
-			§ Run on a laptop: https://github.com/kubernetes/minikube
-			§ Online Free Course: https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
-			§ Intro Course on Github: https://github.com/kelseyhightower/intro-to-kubernetes-workshop
-		○ Docker Swarm
-		○ Mesosphere
-	• Testing
-		○ Selenium
-Headless Chrome (PhantomJS until then)
+  - https://serverless.com/
+  - AWS Lambda
+    - https://github.com/dwyl/learn-aws-lambda
+  - Azure Functions
+- VM's
+  - Docker Images
+  - Vagrant
+    - Vagrant with Docker (https://www.vagrantup.com/docs/provisioning/docker.html)
+- SDN
+  - vmWare NSX
+  - Cisco ACI (Application Centric Infrastructure)
+  - Juniper Contrail
+- Windows Development
+  - penguiNet for SSH and Telnet
+- Container Orchestration
+  - Kubernetes
+    - Run on a laptop: https://github.com/kubernetes/minikube
+    - Online Free Course: https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+    - Intro Course on Github: https://github.com/kelseyhightower/intro-to-kubernetes-workshop
+  - Docker Swarm
+  - Mesosphere
+- Testing
+  - Selenium
+  - Headless Chrome (PhantomJS until then)

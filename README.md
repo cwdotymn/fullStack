@@ -4,7 +4,12 @@
 - I Need to get cloud native
 - Automation is about stamps, not snowflakes
 
-#### Git / Github 
+* [Quick Start](#quick-start)
+* [Git / Github](#git)
+* Automation
+## <a name="quick-start"></a>Quick Start
+
+<a name="git" />#### Git / Github 
   -Read pro git 2, first 2 chapters
 
 #### Automation

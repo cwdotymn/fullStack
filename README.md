@@ -25,8 +25,9 @@
   * git push
 
 ## <a name="automation" /> Automation
-  * Ansible
+  * Ansible - agendless!
     * Ansible: Up and Running
+    * Like it because we are 75% Windows and WinRM is used
   * Chef
   * Puppet
     * https://puppet.com/solutions/security-compliance

@@ -40,8 +40,9 @@
 ## <a name="rest" /> REST
   * Postman
     * Postman Interceptor to capture requests and save them to Postman's history
-    * <a name="http://martinfowler.com/articles/richardsonMaturityModel.html" /> Richardson Maturity Model 
-    * <a name=http://search.safaribooksonline.com/book/software-engineering-and-development/9781491950340 />Building MicroServices
+    * [GitHub](http://github.com)
+    * [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html) 
+    * [Building MicroServices](http://search.safaribooksonline.com/book/software-engineering-and-development/9781491950340)
 Building Microservices
   * GraphQL (http://graphql.org/)
     * Acts as an endpoint

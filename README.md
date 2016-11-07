@@ -29,7 +29,7 @@
     * Ansible: Up and Running
     * Like it because we are 75% Windows and WinRM is used
     * Secure with
-      * Ansible Secrets
+      * Ansible Vault
       * Stackoverflow / Blackbox w/ GPG
   * Chef
   * Puppet

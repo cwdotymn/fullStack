@@ -28,6 +28,9 @@
   * Ansible - agendless!
     * Ansible: Up and Running
     * Like it because we are 75% Windows and WinRM is used
+    * Secure with
+      * Ansible Secrets
+      * Stackoverflow / Blackbox w/ GPG
   * Chef
   * Puppet
     * https://puppet.com/solutions/security-compliance
